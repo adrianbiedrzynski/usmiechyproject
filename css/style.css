@@ -18,6 +18,15 @@ font-family: 'DM Serif Display', serif; */
     z-index: 1;
 }
 
+.container_arrow {
+    position: absolute;
+    bottom: 5%;
+    left: calc(50% - 25px);
+    font-size: 50px;
+    color: white;
+    z-index: 1;
+}
+
 .site_header {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
