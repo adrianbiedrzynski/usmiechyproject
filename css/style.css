@@ -1,5 +1,7 @@
 /* font-family: 'Cinzel', serif;
-font-family: 'Roboto', sans-serif; */
+font-family: 'Roboto', sans-serif;
+font-family: 'Ultra', serif;
+font-family: 'Lustria', serif;*/
 
 .container {
     width: 100%;
@@ -13,7 +15,7 @@ font-family: 'Roboto', sans-serif; */
     position: absolute;
     top: 40%;
     left: 20%;
-    font-family: 'Cinzel', serif;
+    font-family: 'Lustria', serif;
     color: white;
     z-index: 1;
 }
@@ -50,7 +52,8 @@ font-family: 'Roboto', sans-serif; */
     grid-area: text;
     color: white;
     text-transform: uppercase;
-    font-family: 'Cinzel', serif;
+    font-family: 'Lustria', serif;
+    font-size: 26px;
 }
 
 .site_header-navbar {
