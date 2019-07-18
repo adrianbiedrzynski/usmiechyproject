@@ -1,5 +1,5 @@
-/* font-family: 'Roboto', sans-serif;
-font-family: 'DM Serif Display', serif; */
+/* font-family: 'Cinzel', serif;
+font-family: 'Roboto', sans-serif; */
 
 .container {
     width: 100%;
@@ -13,7 +13,7 @@ font-family: 'DM Serif Display', serif; */
     position: absolute;
     top: 40%;
     left: 20%;
-    font-family: 'DM Serif Display', serif;
+    font-family: 'Cinzel', serif;
     color: white;
     z-index: 1;
 }
@@ -37,7 +37,7 @@ font-family: 'DM Serif Display', serif; */
     position: fixed;
     left: 0;
     top: 0;
-    background-color: rgb(196, 129, 129);
+    background-color: rgba(129, 158, 196, 0.801);
 }
 
 .site_header-logo {
@@ -50,7 +50,7 @@ font-family: 'DM Serif Display', serif; */
     grid-area: text;
     color: white;
     text-transform: uppercase;
-    font-family: 'DM Serif Display', serif;
+    font-family: 'Cinzel', serif;
 }
 
 .site_header-navbar {
@@ -62,13 +62,13 @@ font-family: 'DM Serif Display', serif; */
 }
 
 .site_header-navbar-active {
-    background-color: rgb(196, 129, 129);
+    background-color: rgba(129, 158, 196, 0.801);
 }
 
 .site_header-navigation {
     display: none;
     grid-area: navigation;
-    background-color: rgb(196, 129, 129);
+    background-color: rgba(129, 158, 196, 0.801);
     margin-top: -12px;
 }
 
